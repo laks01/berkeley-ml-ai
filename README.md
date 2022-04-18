@@ -1,6 +1,6 @@
 # Hypothesis:  Will a customer accept the coupon? 
 
-## Notebook: https://github.com/laks01/berkeley-ml-ai/blob/main/notebooks/cust_coupon_analysis.ipynb
+#### Notebook: https://github.com/laks01/berkeley-ml-ai/blob/main/notebooks/cust_coupon_analysis.ipynb
 
 ## Summary:
  Customer coupons data is evaluated and identified the groups who will likely accept the coupons. 
